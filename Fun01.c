@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//teste
+
 float somar(float n1, float n2)
 {
     float resultado;
